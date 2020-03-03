@@ -78,8 +78,7 @@ STEP-5> Finally, select the edge such that all the nodes are connected to each o
         Rest all the edges are discarded and minimum weight of the MST created is found.
 
         Edge Selected           1       0__(1)__2       <- Required MST with total weight = 1+2+3+5+6
-        [0,2,1]                  \     / \
-      = 17
+        [0,2,1]                  \     / \                                                = 17
         [1,3,2]                  (2) (3) (6)
         [0,3,3]                    \ /     \
         [4,5,5]                     3       4
